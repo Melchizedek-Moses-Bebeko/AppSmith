@@ -1,0 +1,32 @@
+{
+  "gitSyncId": "689f19c69657a21f7f683b2c_4470b79c-a0df-436d-aca1-8f3a25157c9a",
+  "unpublishedPage": {
+    "isHidden": false,
+    "layouts": [
+      {
+        "dsl": {
+          "backgroundColor": "none",
+          "bottomRow": 1360,
+          "canExtend": true,
+          "containerStyle": "none",
+          "detachFromLayout": true,
+          "dynamicBindingPathList": [],
+          "leftColumn": 0,
+          "minHeight": 970,
+          "parentColumnSpace": 1,
+          "parentRowSpace": 1,
+          "rightColumn": 1280,
+          "snapColumns": 64,
+          "snapRows": 125,
+          "topRow": 0,
+          "type": "CANVAS_WIDGET",
+          "version": 94,
+          "widgetId": "0",
+          "widgetName": "MainContainer"
+        }
+      }
+    ],
+    "name": "Assets",
+    "slug": "assets"
+  }
+}
